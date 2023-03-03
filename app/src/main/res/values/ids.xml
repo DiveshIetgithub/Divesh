@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextFirstName" type="id" />
+    <item name="editTextLastName" type="id">LastName</item>
+    <item name="editTextMobile" type="id" />
+    <item name="editTextAlterMobile" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="radioGroupGender" type="id" />
+    <item name="radioButtonMale" type="id" />
+    <item name="radioButtonFemale" type="id" />
+    <item name="radioButtonTsGender" type="id" />
+    <item name="checkBoxCricket" type="id" />
+    <item name="checkBoxMovie" type="id" />
+    <item name="checkBoxStudy" type="id" />
+    <item name="checkBoxTravelling" type="id" />
+    <item name="checkBoxGamming" type="id" />
+    <item name="buttonSubmit" type="id" />
+</resources>
